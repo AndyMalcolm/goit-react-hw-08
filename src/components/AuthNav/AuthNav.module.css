@@ -9,7 +9,7 @@
     background-color: transparent;
     text-decoration: none;
     color: salmon;
-    user-select: none;
+    /* user-select: none; */
   }
   .active {
     border-radius: 10px;
