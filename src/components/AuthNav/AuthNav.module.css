@@ -8,6 +8,8 @@
     padding: 5px;
     background-color: transparent;
     text-decoration: none;
+    color: salmon;
+    user-select: none;
   }
   .active {
     border-radius: 10px;
