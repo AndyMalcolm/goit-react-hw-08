@@ -4,7 +4,7 @@
   font-weight: 400;
 
   color-scheme: light dark;
-  color: #111;
+  color: salmon;
   background-color: #fff;
 
   font-synthesis: none;
@@ -15,7 +15,7 @@
 header {
   display: flex;
   gap: 20px;
-  border: 1px #222 solid;
+  border: 1px salmon solid;
   padding: 10px;
   border-radius: 0 0 20px 20px;
 }
@@ -40,7 +40,7 @@ button {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #646cff;
+  background-color: salmon;
   cursor: pointer;
   transition: border-color 0.25s;
 }
